@@ -1,0 +1,29 @@
+_repo: Linda-Condon_7171
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hergesheimer, Joseph
+    birthdate: 1880
+    deathdate: 1954
+    gutenberg_agent_id: '2218'
+    url: http://www.gutenberg.org/2009/agents/2218
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Hergesheimer
+description: Raised by a superficial single mother, young Linda leads an isolated
+  life of endless travel, and then is given to a wealthy man in a marriage of convenience.
+  Her struggles with marriage and her family convince Linda that she is emotionless.
+  Written in the author's signature aesthetic" style, this 1919 novel is a bleakly
+  naturalistic portrait of a soul unable to connect with others.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: Linda Condon
+url: http://www.gutenberg.org/ebooks/7171
