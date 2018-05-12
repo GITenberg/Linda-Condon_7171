@@ -1,5 +1,8 @@
 _repo: Linda-Condon_7171
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hergesheimer, Joseph
@@ -13,6 +16,8 @@ description: Raised by a superficial single mother, young Linda leads an isolate
   Her struggles with marriage and her family convince Linda that she is emotionless.
   Written in the author's signature aesthetic" style, this 1919 novel is a bleakly
   naturalistic portrait of a soul unable to connect with others.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7171#Linda-Condon
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
